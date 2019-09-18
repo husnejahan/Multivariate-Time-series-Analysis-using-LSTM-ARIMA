@@ -3,9 +3,7 @@ Multivariate Time series Analysis Using LSTM &amp; ARIMA
 
 # Data
 The data is obtained from UCI Machine Learning Repository. It was recorded by 5 metal oxide chemical sensors located in a 
-
 significantly polluted area in an Italian city, and I will analyze one of them, CO. The dataset contains 9358 instances of 
-
 hourly averaged responses spreading from March 2004 to February 2005.
 
 Below is the attributes description loaded from UCI Machine Learning Repository.
